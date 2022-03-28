@@ -7,7 +7,7 @@
 	<h3>hi vakash</h3>
 	<p>15
 
-
+<a href="http://192.168.100.167:8048/MavenWebproject/new.jsp">new.jsp</a>
 1
 I installed JBoss Developer Studio and it's possible to create a WAR file by "right mouse project > Export > WAR file" but I want to export my project to a WAR file using the commandline.
 
